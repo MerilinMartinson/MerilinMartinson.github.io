@@ -16,6 +16,7 @@ linkedin_username        : "merilin-martinson"        # or your public profile i
 url: "https://merilinmartinson.github.io"
 baseurl: ""          # empty string — do NOT set to /anything
 repository               : "MerilinMartinson/MerilinMartinson.github.io"
+minimal_mistakes_skin: pastel-merilin
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 breadcrumbs              : false # true, false (default)
