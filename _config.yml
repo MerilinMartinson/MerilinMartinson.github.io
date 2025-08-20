@@ -11,13 +11,13 @@ title                    : "Merilin Martinson / Economics PhD Candidate"
 title_separator          : "-"
 name                     : "Merilin Martinson"
 description              : "mostly a labour economist, partly a data scientist"
-url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
 github_username: MerilinMartinson
 linkedin_username        : "merilin-martinson"        # or your public profile id
-url                      : "https://MerilinMartinson.github.io"
+url: "https://merilinmartinson.github.io"
+baseurl: ""          # empty string — do NOT set to /anything
 repository               : "MerilinMartinson/MerilinMartinson.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -268,6 +268,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-include-cache
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
