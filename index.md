@@ -7,4 +7,4 @@ permalink: /
 ---
 
 I work with applied micro, econometrics, and large datasets.  
-[CV](/files/cv.pdf) · [GitHub](https://github.com/MerilinMartinson) · [LinkedIn](https://www.linkedin.com/in/merilin-martinson)
+[CV](/files/CV_Merilin_Martinson_2025-1.pdf) · [GitHub](https://github.com/MerilinMartinson) · [LinkedIn](https://www.linkedin.com/in/merilin-martinson)

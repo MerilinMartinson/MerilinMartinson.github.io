@@ -49,12 +49,12 @@ plugins:
 author:
   name: "Merilin Martinson"
   avatar: "profile.png"
-  bio: "phd. applied microeconomist first and foremost."
+  bio: "phd. applied microeconomist first, data scientist second."
   location: "Berlin"
-  email: "merilin.martinson [at] hu-berlin.de"
+  email: "merilin.martinson [at] gmail.com"
   github: "MerilinMartinson"
-  linkedin: "https://www.linkedin.com/in/merilin-martinson/"
-  researchgate: "https://www.researchgate.net/profile/Merilin-Martinson"
+  linkedin: "merilin-martinson"
+  researchgate: "Merilin-Martinson"
 
 # --- Collections ---
 collections:
