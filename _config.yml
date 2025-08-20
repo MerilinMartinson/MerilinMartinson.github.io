@@ -7,13 +7,16 @@ n# Welcome to Jekyll!
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Merilin Martinson / Economics Student"
+title                    : "Merilin Martinson / Economics PhD Candidate"
 title_separator          : "-"
-name                     : &name "Merilin Martinson"
-description              : &description "half labour economist, half data scientist"
+name                     : "Merilin Martinson"
+description              : "mostly a labour economist, partly a data scientist"
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+github_username: MerilinMartinson
+linkedin_username        : "merilin-martinson"        # or your public profile id
+url                      : "https://MerilinMartinson.github.io"
+repository               : "MerilinMartinson/MerilinMartinson.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
