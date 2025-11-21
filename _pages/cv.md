@@ -1,59 +1,21 @@
----
-layout: archive
-title: "CV"
+layout: single
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: "CV"
 ---
 
-{% include base_path %}
+The latest version of my CV is available as a PDF.  
+[Download CV (PDF)](/files/CV_Merilin_Martinson_2025-1.pdf)
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Snapshot
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- PhD candidate in Economics at UCL; research in labour and migration economics, applied econometrics.  
+- Comfortable with causal inference, administrative and linked datasets, and reproducible workflows.  
+- Tools: R, Python, and Stata; data visualization and documentation.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Selected experience
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Teaching at HTW Berlin (2018–2020): *Business Mathematics* and *Research Methods and Scientific Writing*.  
+- Classroom teaching in Colombia (2016–2018): English and Mathematics with student‑centred methods.  
+- Industry/RA experience focused on large datasets and empirical analysis.
+
+If you need a tailored version or a one-page summary, feel free to [email me](mailto:merilin.martinson@gmail.com).

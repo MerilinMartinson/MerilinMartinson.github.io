@@ -1,5 +1,3 @@
----
----
 
-// @import "minimal-mistakes/skins/pastel-merilin"; // your custom skin
-@import "minimal-mistakes";                      // the whole theme
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";

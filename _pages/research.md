@@ -3,10 +3,18 @@ permalink: /research/
 title: "Research"
 ---
 
-_Working papers_
+I work on applied micro topics with an emphasis on labour and migration economics. I like problems that combine rich administrative data with careful causal identification.
 
-- Title TBC. Abstract coming soon.
+## Areas of interest
 
-_Work in progress_
+- Labour market integration and mobility  
+- Migration decisions and policy impacts  
+- Inequality, education, and skills  
+- Program evaluation and causal inference
 
-- Project TBC.
+## Current projects
+
+- Job market paper on labour/migration economics — abstracts and draft available on request.  
+- Additional projects using large administrative datasets; summaries coming soon.
+
+If you’d like to hear more about a project or collaborate, [send me an email](mailto:merilin.martinson@gmail.com).
